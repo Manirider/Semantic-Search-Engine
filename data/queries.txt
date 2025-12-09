@@ -1,0 +1,4 @@
+what is deep learning
+reinforcement learning basics
+applications of NLP
+support vector machines explanation

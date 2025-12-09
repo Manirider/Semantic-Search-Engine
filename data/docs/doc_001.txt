@@ -1,0 +1,1 @@
+Support Vector Machines are supervised learning models for classification. This is sample document number 1.

@@ -1,0 +1,6 @@
+numpy
+scikit-learn
+sentence-transformers
+tqdm
+typer   
+rich    
