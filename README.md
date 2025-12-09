@@ -104,8 +104,6 @@ pip install -r requirements.txt
 Place your .txt files inside:
 
 data/docs/
-
-
 If you need sample documents, run the helper script:
 
 python scripts/generate_dummy_docs.py
