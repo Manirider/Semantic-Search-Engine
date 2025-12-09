@@ -1,18 +1,18 @@
 **Semantic Search Engine**
 
+Author & Background
+Developed by:
+S.Manikanta Suryasai
+This project is a reflection of my continuous effort to learn, build, and deploy industry-relevant AI systems.
+
+
 A lightweight, production-style semantic search system built using Sentence Transformers, NumPy, and cosine similarity.
 
 This project implements an end-to-end semantic search engine capable of finding conceptually similar documents rather than relying on keyword matching. It uses pretrained transformer embeddings, persistent indexing, and a clean command-line interface for searching both single queries and batch queries.
 
 This repository also demonstrates the fundamentals of building modern information retrieval systems and serves as a foundation for RAG (Retrieval-Augmented Generation) pipelines.
 
-👨‍💻 Author & Background
-Developed by:
-
-S.Manikanta Suryasai
-
-This project is a reflection of my continuous effort to learn, build, and deploy industry-relevant AI systems.
-
+ 
 **-Features-**
 ✅ Document Ingestion
 
@@ -275,7 +275,6 @@ Search bar
 Ranked results
 
 Document preview
-
 **Integrate Into RAG Pipeline**
 
 Use this as the retrieval layer for LLM-based question answering.
