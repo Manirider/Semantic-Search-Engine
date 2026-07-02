@@ -1,0 +1,8 @@
+Repository: Semantic-Search-Engine
+Description: Semantic search engine using Sentence Transformers (all-MiniLM-L6-v2) for meaning-based document retrieval with cosine similarity.
+Topics: portfolio-project
+
+GitHub Settings Updates:
+1. Go to https://github.com/Manirider/Semantic-Search-Engine/settings
+2. Update the Description field to: Semantic search engine using Sentence Transformers (all-MiniLM-L6-v2) for meaning-based document retrieval with cosine similarity.
+3. Add the following tags under Topics: portfolio-project
